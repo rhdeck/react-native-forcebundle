@@ -1,21 +1,22 @@
 {
   "name": "react-native-forcebundle",
   "version": "1.0.0",
-  "description": "Set development server in react native",
+  "description":
+    "Force creation of bundle - and not register packaging server - in react native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhdeck/react-native-setdevserver.git"
+    "url": "git+https://github.com/rhdeck/react-native-forcebundle.git"
   },
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhdeck/react-native-setdevserver/issues"
+    "url": "https://github.com/rhdeck/react-native-forcebundle/issues"
   },
-  "homepage": "https://github.com/rhdeck/react-native-setdevserver#readme",
+  "homepage": "https://github.com/rhdeck/react-native-forcebundle#readme",
   "dependencies": {
     "glob": "^7.1.2",
     "xcode": "rhdeck/cordova-node-xcode"
