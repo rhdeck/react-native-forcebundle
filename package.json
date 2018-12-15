@@ -1,8 +1,7 @@
 {
   "name": "react-native-forcebundle",
   "version": "1.0.0",
-  "description":
-    "Force creation of bundle - and not register packaging server - in react native",
+  "description": "Force creation of bundle - and not register packaging server - in react native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +18,7 @@
   "homepage": "https://github.com/rhdeck/react-native-forcebundle#readme",
   "dependencies": {
     "glob": "^7.1.2",
-    "xcode": "rhdeck/cordova-node-xcode"
+    "@raydeck/xcode": "^2.2.0"
   },
   "rnpm": {
     "plugin": "index.js",
